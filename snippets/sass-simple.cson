@@ -1,0 +1,6 @@
+'.source.css.scss, .source.sass':
+  'Simple:comment':
+    'prefix': 'c'
+    'body': """
+      // # ${1:A simple declaration}
+    """

@@ -1,0 +1,6 @@
+'.source.css.scss, .source.sass':
+  'Divider:comment':
+    'prefix': 'cd'
+    'body': """
+      // # ========== ${1:My divider}
+    """

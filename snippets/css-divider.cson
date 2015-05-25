@@ -1,0 +1,4 @@
+'.source.css':
+  'Divider:comment':
+    'prefix': 'cd'
+    'body': '/* # ========== ${1:My divider} */'

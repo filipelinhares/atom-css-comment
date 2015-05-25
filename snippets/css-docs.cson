@@ -1,0 +1,10 @@
+'.source.css':
+  'Docs:comment':
+    'prefix': 'cdo'
+    'body': """
+      /*
+      == ${1:Tittle}
+      -- ${2:Description}
+      ## ${3:Content}
+      */
+    """

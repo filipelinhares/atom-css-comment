@@ -1,0 +1,7 @@
+'.source.css.scss, .source.sass':
+  'Sub:comment':
+    'prefix': 'cs'
+    'body': """
+      // # ${1:My subsection title}
+      // # =================================================================
+    """

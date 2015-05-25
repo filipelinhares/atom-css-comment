@@ -1,0 +1,4 @@
+'.source.css':
+  'Simple:comment':
+    'prefix': 'c'
+    'body': '/* # ${1:A simple declaration} */'

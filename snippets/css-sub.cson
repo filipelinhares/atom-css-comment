@@ -1,0 +1,7 @@
+'.source.css':
+  'Susection:comment':
+    'prefix': 'cs'
+    'body': """
+      /* # ${1:My subsection title}
+         # ================================================================= */
+    """
